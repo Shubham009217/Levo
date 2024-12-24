@@ -1,4 +1,4 @@
 {
-  "version": "0.23",
+  "version": "0.24",
   "link": "https://raw.githubusercontent.com/Shubham009217/Levo/main/libGVoicePlugin.so"
 }
